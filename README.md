@@ -20,8 +20,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/davidijesus">
-          <img src="https://github.com/davidijesus.png" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
+        <a href="https://www.linkedin.com/in/yt-yukitanaka/">
+          <img src="https://github.com/yukitnak.png" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
           <sub><b>Yuki Tanaka</b></sub>
         </a>
       </td>
@@ -38,8 +38,8 @@
         </a>
       </td>
         <td align="center">
-            <a href="https://www.linkedin.com/in/yt-yukitanaka/">
-            <img src="https://github.com/davidijesus.png" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
+            <a href="https://www.linkedin.com/in/flaviagonmac/">
+            <img src="https://github.com/flaviagoma" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
           <sub><b>Flávia Macêdo</b></sub>
         </a>
       </td>
@@ -79,8 +79,7 @@ Antecipação de anomalias e riscos que impactam o desempenho ou a integridade d
 
 ## Problema
 
-A bioincrustação aumenta o arrasto hidrodinâmico, elevando consumo de combustível e emissões.  
-Sua avaliação hoje depende de inspeções visuais esporádicas, caras e tardias.
+Fragilidade sistêmica da segurança alimentar. 
 
 O desafio do hackathon:
 
