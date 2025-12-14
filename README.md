@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="/Hackathon-Devs-Imapcto/static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 30px;">
+  <img src="static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 30px;">
 </p>
 
 <p align="center">
