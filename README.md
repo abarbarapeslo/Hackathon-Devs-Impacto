@@ -21,7 +21,7 @@
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/yt-yukitanaka/">
-          <img src="https://github.com/yukitnak.png" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
+          <img src="https://github.com/yukitnak.png" style="border-radius: 10%; width: 150px;" alt="Yuki Tanaka"/><br>
           <sub><b>Yuki Tanaka</b></sub>
         </a>
       </td>
@@ -39,7 +39,7 @@
       </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/flaviagonmac/">
-            <img src="https://github.com/flaviagoma.png" style="border-radius: 10%; width: 150px;" alt="Davi Nascimento de Jesus"/><br>
+            <img src="https://github.com/flaviagoma.png" style="border-radius: 10%; width: 150px;" alt="Flávia Macêdo"/><br>
           <sub><b>Flávia Macêdo</b></sub>
         </a>
       </td>
