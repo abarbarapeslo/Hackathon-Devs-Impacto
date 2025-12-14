@@ -127,17 +127,22 @@ O desafio do Hackathon:
 
 ## Tecnologias
 
-- Python (Pandas, NumPy, Scikit-learn)
-- IA/ML para previsão de fouling
-- Visualização e análise exploratória
-- Engenharia de dados (merge_asof, normalização temporal)
-- Tratamento de dados AIS, IWS, Consumo e Eventos
+- React 18 com Vite e TypeScript
+- Tailwind CSS e shadcn-ui para interface
+- React Router v6 para navegação
+- Web Speech API para reconhecimento de voz
+- NestJS com TypeScript no backend
+- Prisma ORM com PostgreSQL
+- Integração com APIs externas (Google Maps e Eleven Labs)
+- Blockchain Stellar (Testnet) com token customizado REFEICAO
+- Uso do @stellar/stellar-sdk para emissão e transações de ativos
+- IA/ML elevenlabs
 
 ---
 ## 🥕 Uma nova visão para o sistema alimentar
 
 A Dircê não é apenas uma moeda.  
-É uma ponte entre quem produz e quem precisa, usando tecnologia para garantir comida de verdade, inclusão social e impacto local.
+É uma ponte entre quem produz e quem precisa, usando tecnologia para garantir comida de verdade que seja rastrável, promova inclusão social, impacto educacional e local.
 
 > **Dircê é seu caminho para alimentação saudável.**
 
