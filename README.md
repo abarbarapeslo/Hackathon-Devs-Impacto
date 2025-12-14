@@ -1,11 +1,11 @@
 <div align="center">
 
-# Dircê
+# Dirce
 
 </div>
 
 <p align="center">
-  <img src="static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 20px;">
+  <img src="static/img/dirce_logo.png" alt="Dirce" width="400" style="margin-bottom: 20px;">
 </p>
 
 <p align="center">
@@ -51,10 +51,10 @@
 
 ## Descrição
 
-**Dircê** é uma infraestrutura digital de impacto social criada para enfrentar um dos maiores desafios estruturais do país: a **segurança alimentar**, do campo à mesa, desenvolvida para o **Hackathon Devs de Impacto**.
+**Dirce** é uma infraestrutura digital de impacto social criada para enfrentar um dos maiores desafios estruturais do país: a **segurança alimentar**, do campo à mesa, desenvolvida para o **Hackathon Devs de Impacto**.
 
 Nosso propósito é conectar **o campo à mesa** promovendo acesso, rastreabilidade e dignidade por meio da tecnologia.
-A Dircê tem o foco em:
+A Dirce tem o foco em:
 
 - ampliar o acesso a alimentos saudáveis e de qualidade,  
 - fortalecer produtores locais e a economia circular,  
@@ -62,7 +62,7 @@ A Dircê tem o foco em:
 - garantir transparência e rastreabilidade da produção ao consumo,  
 - promover inclusão social por meio de tecnologias acessíveis.  
 
-Inspirada na complexidade dos sistemas alimentares, a Dircê traduz dados, fluxos e relações em
+Inspirada na complexidade dos sistemas alimentares, a Dirce traduz dados, fluxos e relações em
 **decisões mais justas, eficientes e transparentes**, tornando visível o que hoje opera de forma *fragmentada*.
 
 ---
@@ -93,7 +93,7 @@ O desafio do Hackathon:
 
 ---
 
-## O que a Dircê resolve
+## O que a Dirce resolve
 
 - 🥗 **Garante acesso a alimentos de qualidade** para usuários do CadÚnico  
 - 💳 **Utiliza cartão físico**, simples e aceito em maquininhas  
@@ -109,19 +109,19 @@ O desafio do Hackathon:
 1. **Identificação do Beneficiário**  
    • Validação automática a partir do Cadastro Único.
 
-2. **Entrega do Cartão Dircê no CRAS**  
+2. **Entrega do Cartão Dirce no CRAS**  
    • Cartão físico habilitado para uso em estabelecimentos parceiros. 
 
 3. **Crédito da Moeda Social**  
-   • O usuário recebe 200 créditos (1 moeda social =  1R$) mensalmente em Dircê.
+   • O usuário recebe 200 créditos (1 moeda social =  1R$) mensalmente em Dirce.
 
 4. **Compra de Alimentos**  
-   • Uso do cartão Dircê em maquininhas de produtores e comércios cadastrados.
+   • Uso do cartão Dirce em maquininhas de produtores e comércios cadastrados.
    • Estimativa de impacto energético.
 
 5. **Incentivo Fiscal aos Produtores e Comércios**  
    • Produtores e estabelecimentos cadastrados passam a ter acesso a **benefícios fiscais**, 
-   como abatimento de impostos, mediante participação no ecossistema Dircê e cumprimento 
+   como abatimento de impostos, mediante participação no ecossistema Dirce e cumprimento 
    dos critérios do programa.
 
 
@@ -141,9 +141,9 @@ O desafio do Hackathon:
 ---
 ## 🥕 Uma nova visão para o sistema alimentar
 
-A Dircê não é apenas uma moeda.  
+A Dirce não é apenas uma moeda.  
 É uma ponte entre quem produz e quem precisa, usando tecnologia para garantir comida de verdade que seja rastrável, promova inclusão social, impacto educacional e local.
 
-> **Dircê é seu caminho para alimentação saudável.**
+> **Dirce é seu caminho para alimentação saudável.**
 
 Redeploy forced at 2025-11-30T21:54:46.4148695-03:00
