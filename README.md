@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <img src="static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 30px;">
+  <img src="static/img/dirce_logo.png" alt="Dircê" width="360" style="margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <i>Economia circular para garantir alimento de qualidade, acessível e com dignidade — do campo à mesa.</i>
+  <i>Economia circular para garantir alimento de qualidade, acessível, rastreável e com dignidade — do campo à mesa.</i>
 </p>
 
 ---
@@ -51,19 +51,19 @@
 
 ## Descrição
 
-**Dircê** é uma infraestrutura digital de impacto social criada para enfrentar um dos maiores desafios estruturais do país: a **segurança alimentar**, do campo à mesa desenvolvida para o **Hackathon Devs de Impacto**.
+**Dircê** é uma infraestrutura digital de impacto social criada para enfrentar um dos maiores desafios estruturais do país: a **segurança alimentar**, do campo à mesa, desenvolvida para o **Hackathon Devs de Impacto**.
 
-Nosso propósito é conectar **o campo à mesa**, promovendo acesso, rastreabilidade e dignidade por meio da tecnologia.
+Nosso propósito é conectar **o campo à mesa** promovendo acesso, rastreabilidade e dignidade por meio da tecnologia.
+A Dircê tem o foco em:
 
-- ampliam o acesso a alimentos saudáveis e de qualidade,  
-- fortalecem produtores locais e a economia circular,  
-- reduzem perdas e ineficiências na cadeia alimentar,  
-- garantem transparência e rastreabilidade da produção ao consumo,  
-- promovem inclusão social por meio de tecnologias acessíveis.  
+- ampliar o acesso a alimentos saudáveis e de qualidade,  
+- fortalecer produtores locais e a economia circular,  
+- reduzir perdas e ineficiências na cadeia alimentar,  
+- garantir transparência e rastreabilidade da produção ao consumo,  
+- promover inclusão social por meio de tecnologias acessíveis.  
 
 Inspirada na complexidade dos sistemas alimentares, a Dircê traduz dados, fluxos e relações em
 **decisões mais justas, eficientes e transparentes**, tornando visível o que hoje opera de forma *fragmentada*.
-
 
 ---
 
