@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="static/img/dirce_logo.png" alt="Dircê" width="360" style="margin-bottom: 30px;">
+  <img src="static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 20px;">
 </p>
 
 <p align="center">
