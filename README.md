@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <img src="/static/img/nautilus_logo.svg" alt="Nautilus" width="400" style="margin-bottom: 30px;">
+  <img src="/Hackathon-Devs-Imapcto/static/img/dirce_logo.png" alt="Dircê" width="400" style="margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <i>Inteligência para monitorar e prever bioincrustação — eficiência para navegar mais longe, gastar menos e emitir menos.</i>
+  <i>Economia circular para garantir alimento de qualidade, acessível e com dignidade — do campo à mesa.</i>
 </p>
 
 ---
@@ -51,86 +51,79 @@
 
 ## Descrição
 
-**Nautilus** é uma plataforma de monitoramento inteligente desenvolvida para o **Hackathon Transpetro 2025**, combinando engenharia naval, ciência de dados e inteligência artificial.
+**Dircê** é uma infraestrutura digital de impacto social criada para enfrentar um dos maiores desafios estruturais do país: a **segurança alimentar**, do campo à mesa desenvolvida para o **Hackathon Devs de Impacto**.
 
-Nosso propósito é **prever e monitorar a bioincrustação** no casco das embarcações, permitindo decisões operacionais baseadas em dados que:
+Nosso propósito é conectar **o campo à mesa**, promovendo acesso, rastreabilidade e dignidade por meio da tecnologia.
 
-- reduzem consumo de combustível,  
-- minimizam emissões de gases de efeito estufa,  
-- antecipam riscos de segurança,  
-- aumentam eficiência e disponibilidade da frota.
+- ampliam o acesso a alimentos saudáveis e de qualidade,  
+- fortalecem produtores locais e a economia circular,  
+- reduzem perdas e ineficiências na cadeia alimentar,  
+- garantem transparência e rastreabilidade da produção ao consumo,  
+- promovem inclusão social por meio de tecnologias acessíveis.  
 
-Inspirado na hidrodinâmica do organismo marinho *nautilus*, o projeto representa **precisão, adaptação e profundidade analítica**, revelando o que está abaixo da superfície.
+Inspirada na complexidade dos sistemas alimentares, a Dircê traduz dados, fluxos e relações em
+**decisões mais justas, eficientes e transparentes**, tornando visível o que hoje opera de forma *fragmentada*.
+
 
 ---
 
 ## Valores da Marca
 
-### **Precisão**
-Inteligência capaz de interpretar a performance real do casco, cruzando dados de sensores, eventos e inspeções para entregar recomendações confiáveis.
+### **Dignidade Alimentar**
+Acesso à alimentação saudável como direito básico, respeitando as realidades sociais e territoriais.
 
-### **Sustentabilidade**
-Monitoramento contínuo da degradação hidrodinâmica e do aumento de fouling, permitindo reduzir emissões e consumo operacional.
+### **Inclusão e Acessibilidade**
+Tecnologia pensada para todos, com uso de cartão físico e atendimento por áudio via IA.
 
-### **Segurança Preditiva**
-Antecipação de anomalias e riscos que impactam o desempenho ou a integridade da embarcação.
+### **Economia Circular**
+Fortalecimento da economia local, mantendo recursos dentro do território e apoiando pequenos produtores.
+
+### **Rastreabilidade e Transparência**
+Uso de blockchain para garantir rastreabilidade, confiança e controle social.
 
 ---
 
 ## Problema
 
-Fragilidade sistêmica da segurança alimentar. 
+Fragilidade sistêmica na logística, na rastreabilidade e na acessibilidade comprometem a garantia da segurança alimentar. 
 
-O desafio do hackathon:
+O desafio do Hackathon:
 
-> **"Como usar tecnologias inovadoras para monitorar e prever a bioincrustação, aumentando a eficiência operacional, reduzindo consumo e apoiando a descarbonização da frota?"**
+> **"Como criar soluções tecnológicas inovadoras (Junto com a IA) para fortalecer a segurança alimentar? do campo à mesa"**
 
 ---
 
-## O que o Nautilus resolve
+## O que a Dircê resolve
 
-- 📈 **Prevê a evolução da bioincrustação** com base em dados operacionais e históricos  
-- 🔎 **Identifica mudanças na eficiência do casco** antes mesmo das inspeções  
-- 🌎 **Estimula decisões sustentáveis** baseadas em consumo, velocidade e condição real  
-- ⚙️ **Sugerimos o momento ideal** para limpeza/inspeção do casco  
-- 🚢 **Integra dados AIS, consumo, eventos e IWS** em um dataset unificado  
-- 🧠 **Utiliza Machine Learning** para prever condições do casco  
-
+- 🥗 **Garante acesso a alimentos de qualidade** para usuários do CadÚnico  
+- 💳 **Utiliza cartão físico**, simples e aceito em maquininhas  
+- 🔄 **Estimula a economia circular local**  
+- 🌱 **Fortalece a agricultura familiar e produtores locais**  
+- 🧠 **Oferece suporte por IA via áudio**, promovendo acessibilidade  
+- 🔐 **Registra transações em blockchain**, assegurando transparência  
+- 📍 **Conecta CRAS, usuários, produtores e parceiros** em um único ecossistema  
 ---
 
 ## Fluxo de Funcionamento da Solução
 
-1. **Ingestão dos dados**  
-   Consumo, velocidade, GPS, inspeções, eventos de navegação, características dos navios.
+1. **Identificação do Beneficiário**  
+   • Validação automática a partir do Cadastro Único.
 
-2. **Tratamento e Engenharia de Dados**  
-   • Normalização, padronização e merge inteligente (merge_asof).  
-   • Criação do dataset integrado.
+2. **Entrega do Cartão Dircê no CRAS**  
+   • Cartão físico habilitado para uso em estabelecimentos parceiros. 
 
-3. **Análise da Condição do Casco**  
-   • Correlação entre fouling e consumo.  
-   • Detecção de padrões de degradação.
+3. **Crédito da Moeda Social**  
+   • O usuário recebe 200 créditos (1 moeda social =  1R$) mensalmente em Dircê.
 
-4. **Modelo Preditivo**  
-   • Previsão da condição do casco (target).  
+4. **Compra de Alimentos**  
+   • Uso do cartão Dircê em maquininhas de produtores e comércios cadastrados.
    • Estimativa de impacto energético.
 
-5. **Recomendações Operacionais**  
-   • Janelas ideais para limpeza.  
-   • Alertas de risco.  
-   • Insights de eficiência.
+5. **Incentivo Fiscal aos Produtores e Comércios**  
+   • Produtores e estabelecimentos cadastrados passam a ter acesso a **benefícios fiscais**, 
+   como abatimento de impostos, mediante participação no ecossistema Dircê e cumprimento 
+   dos critérios do programa.
 
----
-
-## Acesse a Documentação Completa
-
-📘 **Documentação Docusaurus:**  
-https://abarbarapeslo.github.io/Hackathon-Transpetro/
-
-🎥 **Vídeo explicativo:**  
-_COLOCAR LINK_
-
----
 
 ## Tecnologias
 
@@ -141,11 +134,11 @@ _COLOCAR LINK_
 - Tratamento de dados AIS, IWS, Consumo e Eventos
 
 ---
-## 🌀 Uma nova visão para o mar
+## 🥕 Uma nova visão para o sistema alimentar
 
-Nautilus não apenas analisa o casco.  
-Ele revela o que está abaixo da superfície, traduz operações complexas em decisões inteligentes e guia frotas para um futuro mais eficiente e sustentável.
+A Dircê não é apenas uma moeda.  
+É uma ponte entre quem produz e quem precisa, usando tecnologia para garantir comida de verdade, inclusão social e impacto local.
 
-> **Nautilus é precisão que navega.**
+> **Dircê é seu caminho para alimentação saudável.**
 
 Redeploy forced at 2025-11-30T21:54:46.4148695-03:00
